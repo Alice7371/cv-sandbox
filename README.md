@@ -1,7 +1,8 @@
 # A Category-Aware Dual-Track Framework for Multi-View Industrial Anomaly Detection
 
-**Alice7371**
-*September 2026*
+**Alice7371** · *September 2026*
+
+> Post-competition technical write-up, kept as a record. Not submitted to arXiv.
 
 ---
 
