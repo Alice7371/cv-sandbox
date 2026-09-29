@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.idea/
+*.egg-info/
+
+# data & artifacts (never commit)
+data/
+work/
+dinomaly_data/
+saved_results/
+.venv/
